@@ -1,0 +1,6 @@
+# Blog-site
+
+This is my blog web application which run on local host 3000 .
+npm packages used are...express , body-parser ,EJS and Lodash.
+
+just download and open in your VS code or atom , ...then install all the upper packages and you are ready to go
